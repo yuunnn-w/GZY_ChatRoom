@@ -1,0 +1,10 @@
+# GZY_ChatRoom 🐱 requirements
+# Usage: pip install -r requirements.txt
+# Recommended version of python :3.10.9
+
+Pillow
+tqdm
+requests
+mttkinter
+
+# You can also run the program with a compiled version without having to configure the Python environment
